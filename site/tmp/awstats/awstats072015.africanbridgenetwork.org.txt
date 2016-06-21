@@ -1,0 +1,317 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201507 will be lost/reset.
+# Last config file used to build this data file was /home/abnuser/tmp/awstats/awstats.africanbridgenetwork.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2691                
+POS_VISITOR 7271                
+POS_DAY 8331                
+POS_DOMAIN 3344                
+POS_LOGIN 3574                
+POS_ROBOT 3729                
+POS_WORMS 4027                
+POS_EMAILSENDER 4158                
+POS_EMAILRECEIVER 4301                
+POS_SESSION 8589                
+POS_SIDER 8756                
+POS_FILETYPES 4436                
+POS_DOWNLOADS 4647                
+POS_OS 4695                
+POS_BROWSER 4893                
+POS_SCREENSIZE 5269                
+POS_UNKNOWNREFERER 5343                
+POS_UNKNOWNREFERERBROWSER 5546                
+POS_ORIGIN 5645                
+POS_SEREFERRALS 5780                
+POS_PAGEREFS 5924                
+POS_SEARCHWORDS 6072                
+POS_KEYWORDS 6224                
+POS_MISC 2355                
+POS_ERRORS 6283                
+POS_CLUSTER 3430                
+POS_SIDER_404 6381                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150801125807 1 0 9819276292733
+FirstTime 20150701050254
+LastTime 20150709145433
+LastUpdate 20150802003430 1 0 0 0 0
+TotalVisits 39                  
+TotalUnique 25                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 25                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 45424 7 15 233
+1 2 15 505021 12 13 699
+2 0 0 0 13 14 466
+3 0 0 0 11 12 0
+4 0 0 0 12 13 436
+5 1 1 203 3 4 0
+6 0 0 0 9 10 45484
+7 3 36 2706974 9 22 466
+8 0 0 0 7 7 233
+9 2 2 45221 14 21 466
+10 0 0 0 9 15 466
+11 3 36 2706974 6 53 2662422
+12 10 43 2887474 8 51 45717
+13 0 0 0 4 4 233
+14 4 37 2707177 6 22 233
+15 3 36 2706974 7 26 233
+16 4 70 5323912 10 24 699
+17 0 0 0 4 4 233
+18 3 36 2706974 13 20 699
+19 6 72 5368952 2 23 0
+20 5 38 2662565 5 15 466
+21 8 74 5369539 10 33 466
+22 1 1 45018 12 21 233
+23 6 6 180116 12 31 699
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+us 64 506 35968518
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+google[_+\s]web[_+\s]preview 35 2661956 20150709115949 0
+bot[\s_+:,\.\;\/\\-] 1 45018 20150709062514 0
+netcraft 1 45018 20150707125841 0
+crawl 1 203 20150701045232 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 70 2389814 0 0
+png 26 5136352 0 0
+ttf 1 112160 0 0
+woff 13 850876 0 0
+php 4 88 0 0
+html 46 1488233 0 0
+js 112 2479988 0 0
+jpg 234 23511007 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+blackberry 2 2
+linuxandroid 36 3
+winxp 36 3
+ios_iphone 105 6
+linux 3 3
+win7 155 23
+macosx 105 6
+win8 1 1
+Unknown 16 3
+macosx7 47 14
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+safari7.0 35 2
+chrome40.0.2214.94 35 2
+blackberry 2 2
+safari8.0.5 35 2
+chrome43.0.2357.124 35 2
+android 36 3
+firefox38.0 47 14
+chrome43.0.2357.132 77 11
+chrome43.0.2357.130 108 9
+mozilla 1 1
+firefox14.0.1 1 1
+firefox16.0 1 1
+firefox6.0 2 2
+safari8.0 70 4
+chrome27.0.1453.116 1 1
+chrome11.0.696.71 3 3
+Unknown 15 2
+safari 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+\ 20150708012905
+Mozilla/4.0_(compatible;_http://search.thunderstone.com/texis/websearch/about.html) 20150701201317
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+\ 20150708012905
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 46 46
+From1 0 0
+From2 0 0
+From3 0 0
+From4 18 460
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+301 41 9087
+404 370 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 13
+/img/portfolio/escape-preview.png 32 http://africanbridgenetwork.org/
+/ 140 http://best-seo-report.com
+/robots.txt 19 -
+/img/portfolio/roundicons-free.png 32 http://africanbridgenetwork.org/
+/img/portfolio/treehouse-preview.png 32 http://africanbridgenetwork.org/
+/callto:+16176008132 1 -
+/blog//wp-login.php 1 -
+//wp-login.php 1 -
+/cgi-bin/ 12 -
+/img/portfolio/dreams-preview.png 32 http://africanbridgenetwork.org/
+/img/portfolio/golden-preview.png 32 http://africanbridgenetwork.org/
+/admin/ 4 -
+/img/portfolio/startup-framework-preview.png 32 http://africanbridgenetwork.org/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 25
+146.115.134.93 12 78 5549068 20150709073809
+67.5.231.233 6 39 2797032 20150706214739
+71.222.61.25 5 38 2797010 20150708160125
+24.91.41.190 4 70 5323912 20150708150051
+71.222.115.36 3 3 609 20150704212911
+198.0.165.1 3 36 2706974 20150709094118
+204.11.150.154 3 36 2706974 20150709122449
+98.118.51.84 2 35 2661956 20150707213114
+174.25.13.36 2 2 406 20150703145605
+38.99.82.191 2 2 406 20150703214352
+192.237.216.89 2 2 90036 20150707181947
+64.74.215.51 2 15 505021 20150708012905
+69.58.178.59 2 2 406 20150701124816
+73.143.228.172 2 35 2661956 20150708204032
+12.165.188.175 2 35 2661956 20150707162411
+172.56.34.112 2 35 2661956 20150705195515
+172.56.34.79 2 35 2661956 20150705184728
+206.183.1.74 1 1 203 20150701201317
+66.249.83.174 1 1 45018 20150709145433
+69.58.178.58 1 1 203 20150701050254
+172.56.34.59 1 1 45018 20150706004632
+158.69.2.151 1 1 203 20150703005741
+66.249.83.168 1 1 45018 20150709115947
+50.193.202.82 1 1 203 20150701091604
+198.101.238.203 1 1 45018 20150705231540
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20150701 5 5 1015 4
+20150702 1 1 203 1
+20150703 4 4 812 4
+20150704 3 3 609 1
+20150705 15 147 10872958 6
+20150706 7 73 5458966 5
+20150707 8 107 8075904 5
+20150708 16 161 11332961 8
+20150709 5 5 225090 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 2
+0s-30s 34
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 46 1488233 39 26
+/font-awesome/fonts/fontawesome-webfont.woff 13 850876 0 11
+/mail/contact_me.php 4 88 0 1
+/font-awesome/fonts/fontawesome-webfont.ttf 1 112160 0 1
+END_SIDER

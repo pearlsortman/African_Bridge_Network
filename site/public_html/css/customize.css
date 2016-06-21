@@ -1,0 +1,39 @@
+
+
+
+
+/* ========================== CSS Customization Styles for The African Bridge Network ========================== */
+/* 
+	This is the intellectual property of JC Web & Graphic and of its client, The African Bridge Network.
+	All Rights Reserved.
+*/
+
+
+
+
+
+* {
+	/* border: 1px solid green; */
+}
+/* ==============================                Customized Styles                ============================== */
+header #intro-text {
+	position: absolute;
+	top: 200px;
+	left: 125px;
+	z-index: 100;
+	font-weight: bold;
+	font-size: 16pt;
+	padding-top: 200px;
+	color: #fff;
+	}
+
+#slider {
+	width: 80%;
+	margin: 10%;
+	}
+
+#logo {
+	width: 40%;
+	margin-top: 25px;
+	margin-left: -100px;
+	}

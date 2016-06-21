@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^africanbridgenetwork\.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.africanbridgenetwork\.org$
+RewriteRule ^/?$ "http\:\/\/www\.africanbn\.org\/" [R=301,L]
+

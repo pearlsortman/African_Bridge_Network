@@ -1,0 +1,242 @@
+Return-path: <bounces+860260-63c7-info=africanbridgenetwork.org@delivery.customeriomail.com>
+Envelope-to: info@africanbridgenetwork.org
+Delivery-date: Mon, 13 Jul 2015 15:01:02 -0400
+Received: from o5.delivery.customeriomail.com ([198.21.3.35]:12633)
+	by rasmus.asoshared.com with esmtps (TLSv1.2:DHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.85)
+	(envelope-from <bounces+860260-63c7-info=africanbridgenetwork.org@delivery.customeriomail.com>)
+	id 1ZEiyL-00022v-U0
+	for info@africanbridgenetwork.org; Mon, 13 Jul 2015 15:01:02 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; 
+	d=delivery.customeriomail.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding:list-unsubscribe; 
+	s=smtpapi; bh=4g+/en3oSSZytQ1R0qZYSrlbzuU=; b=eHQsLJ0BV0IydLURqn
+	zPhXOls6lBtCv4aR1NGlo+B64y4ZeuBhqS+gCMQZUaBRWABf6jsbPsMWoEqO1P6n
+	c4dZtTJV56xV2pRKlsOK7/Yc8dEmKPf1+QvgTA7uzuwT/xIzqIW3S+zzUIzVA432
+	25Kv4EAT0cuSk2w/gsyYRyj0Y=
+Received: by filter0592p1mdw1.sendgrid.net with SMTP id filter0592p1mdw1.9258.55A40AEB3
+        2015-07-13 19:00:59.262622651 +0000 UTC
+Received: from delivery.customeriomail.com (ns5000834.ip-142-4-219.net [142.4.219.164])
+	by ismtpd-025 (SG) with ESMTP id 14e88caa653.24e3.3c19e6
+	for <info@africanbridgenetwork.org>; Mon, 13 Jul 2015 19:00:59 +0000 (UTC)
+Date: Mon, 13 Jul 2015 19:00:57 +0000
+From: The UpTo Team <hello@upto.com>
+To: info@africanbridgenetwork.org
+Message-ID: <55a40ae9c9340_7e02760eb0357904614@ns5000834.ip-142-4-219.net.mail>
+Subject: The UpTo app is where it's at
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_55a40ae9b22dc_7e02760eb035790436c";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <http://track.customer.io/unsubscribe/ODQ4NzoV0QJkAAJzABbubhoBTlVKNBoVIBhVpArLAXM6ODkwMTAA>
+X-SG-EID: zZfyQoJUvPmiMydV68V5sUpU8UMz75Sp9OX8Hl5VWFTfnsk2S5ql7Emd9FhbhCdKHHI/+4MYOSbSPA
+ iNmNcMZ00ZH53s2oMk4xEad529ZlC3drrfKEVyDCJfkn3ZKHxPHBqI3uOni4qLTtcQCScXOAiUE8HP
+ B1mbCLzQDj5NZ3jtqA74Olhwaq/wNryx0f3L
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZiJBMX+5kHZNo5GUPtmQyHxJpKN0B71YzLlpEJR9qNJ0H/EeFa316pBRpl
+ IsQISnA9y74CUPP1zkCwSAjFUAUdw=
+
+
+----==_mimepart_55a40ae9b22dc_7e02760eb035790436c
+Date: Mon, 13 Jul 2015 19:00:57 +0000
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: <55a40ae9b39d6_7e02760eb0357904482@ns5000834.ip-142-4-219.net.mail>
+
+( http://upto.com )
+
+Hi Staff,
+
+At UpTo, our goal is to make it as easy as possible for you to
+spread word about your events. Your audience wants to know what
+you've got coming up. If only there was an easy way to drop your
+events directly into their calendars...
+
+Make way for the UpTo mobile app, free for iPhone and Android!
+The UpTo app is a better mobile calendar that lets users follow
+public calendars=E2=80=94 like their favorite sports teams, TV premiers,
+local concert venues, and your organization's calendar=E2=80=94 without
+adding clutter to theirs. Here's how everybody wins:
+* Calendar followers will see your events alongside their own
+* Add a new event and followers will receive a push notification
+on their phone
+* Changes to event details are automatically reflected in their
+calendars
+
+Check out this video ( http://bit.ly/1sH1lsk ) for a quick
+overview of the UpTo app.
+
+( http://bit.ly/1pmMCDA )
+
+Viva la calendar revolution!
+
+The UpTo Team
+
+( https://twitter.com/upto )
+( https://www.facebook.com/uptoapp )
+
+=C2=A92014 UpTo, Inc. All rights reserved.
+1555 Broadway, Detroit, MI 48226
+
+Please email support@upto.com (
+mailto:support@upto.com ) with any questions or problems.
+Click here to unsubscribe ( http://track.customer.io/unsubscribe/ODQ4NzoV0Q=
+JkAAJzABbubhoBTlVKNBoVIBhVpArLAXM6ODkwMTAA ).
+
+----==_mimepart_55a40ae9b22dc_7e02760eb035790436c
+Date: Mon, 13 Jul 2015 19:00:57 +0000
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: <55a40ae9c8ac7_7e02760eb0357904519@ns5000834.ip-142-4-219.net.mail>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<style type=3D"text/css">
+            a { color: #1a77b9 !important; }
+            @media screen and (max-width:480px) {=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20
+                .maximum-width { width: 400px !important; }
+            }
+        </style>
+</head>
+<body style=3D"font-family: Arial; font-size: 13px; background: #e4e4e4; ma=
+rgin: 0; padding: 0;" bgcolor=3D"#e4e4e4">
+    	<table align=3D"center" class=3D"maximum-width" cellpadding=3D"0" cell=
+spacing=3D"0" style=3D"border-spacing: none; width: 700px; margin: 0 auto; =
+padding: 0;"><tbody><tr>
+<td>
+=09=09=09=09=09
+						<!-- Begin Header Area -->
+						<table class=3D"maximum-width" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"width: 700px; background: #ffffff; padding: 6.25% 8%;" bgcolor=3D"#f=
+fffff"><tbody><tr>
+<td class=3D"maximum-width">
+										<a href=3D"http://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6Ik9EUT=
+ROem9WMFFKa0FBSnpBQmJ1YmhvQlRsVktOQm9WSUJoVnBBckxBWE02T0Rrd01UQUEiLCJwb3Npd=
+GlvbiI6MCwiaHJlZiI6Imh0dHA6Ly91cHRvLmNvbSJ9" style=3D"color: #1a77b9 !impor=
+tant; border: none;"><img alt=3D"UpTo" src=3D"http://3c02e62cc9439d9eb619-0=
+50d831b4f3f7c02b7c56c36e89e6bbc.r36.cf2.rackcdn.com/logo.jpg" style=3D"disp=
+lay: block; height: 45px; width: 112px; border: none;" title=3D"UpTo"></a>
+									</td>
+								</tr></tbody></table>
+<!-- End Header Area --><!-- Begin Content Area --><table class=3D"maximum-=
+width" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 700px;"><tbody><=
+tr>
+<td style=3D"line-height: 170%; word-wrap: normal; font-family: Arial; font=
+-size: 13px; background: #ffffff; padding: 0 8% 6.25%;" bgcolor=3D"#ffffff">
+<span style=3D"line-height: normal; font-family: Arial; color: rgb(35, 35, =
+35);">Hi Staff,<br></span><br><span style=3D"line-height: normal; font-fami=
+ly: Arial; color: rgb(35, 35, 35);">At UpTo, our goal is to=C2=A0make it as=
+ easy as possible for you to spread word about your events. Your audience w=
+ants to know what you've got coming up.=C2=A0</span><span style=3D"color: r=
+gb(35, 35, 35); font-family: Arial; font-size: 13px; line-height: normal;">=
+If only=C2=A0there was an easy way to drop your events directly into their=
+=C2=A0calendars...</span><br><span style=3D"line-height: normal; font-famil=
+y: Arial; color: rgb(35, 35, 35);"></span><br><span style=3D"line-height: n=
+ormal; font-family: Arial; color: rgb(35, 35, 35);"><b>Make way for the UpT=
+o mobile app, free for iPhone and Android!</b></span><br><span style=3D"lin=
+e-height: normal; font-family: Arial; color: rgb(35, 35, 35);">The UpTo app=
+=C2=A0is a better mobile calendar that lets users follow public calendars=
+=E2=80=94 like their
+favorite sports teams, TV premiers, local concert venues, and=C2=A0<i>your =
+organization's calendar</i>=E2=80=94 without adding clutter to theirs. Here=
+'s how everybody wins:</span><br><ul>
+<li><span style=3D"line-height: normal; font-family: Arial; color: rgb(35, =
+35, 35);">Calendar followers will see your events alongside their own</span=
+></li>
+<li><span style=3D"line-height: normal; font-family: Arial; color: rgb(35, =
+35, 35);">Add a new event and followers will receive a push notification on=
+ their phone</span></li>
+<li><span style=3D"line-height: normal; font-family: Arial; color: rgb(35, =
+35, 35);">Changes to event details are automatically reflected in their cal=
+endars</span></li>
+</ul>
+<span style=3D"line-height: normal; font-family: Arial; color: rgb(35, 35, =
+35);">Check out this <a target=3D"_blank" rel=3D"nofollow" title=3D"Link: h=
+ttp://bit.ly/1sH1lsk" href=3D"http://e.customeriomail.com/e/c/eyJlbWFpbF9pZ=
+CI6Ik9EUTROem9WMFFKa0FBSnpBQmJ1YmhvQlRsVktOQm9WSUJoVnBBckxBWE02T0Rrd01UQUEi=
+LCJwb3NpdGlvbiI6MSwiaHJlZiI6Imh0dHA6Ly9iaXQubHkvMXNIMWxzayIsImxpbmtfaWQiOjU=
+yMzY1MX0=3D" style=3D"color: #1a77b9 !important;">video</a>=C2=A0</span><sp=
+an style=3D"line-height: normal; font-family: Arial; color: rgb(35, 35, 35)=
+;">for a quick overview of the UpTo app.<br></span><br><a target=3D"_blank"=
+ rel=3D"nofollow" href=3D"http://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6I=
+k9EUTROem9WMFFKa0FBSnpBQmJ1YmhvQlRsVktOQm9WSUJoVnBBckxBWE02T0Rrd01UQUEiLCJw=
+b3NpdGlvbiI6MiwiaHJlZiI6Imh0dHA6Ly9iaXQubHkvMXBtTUNEQSIsImxpbmtfaWQiOjUyMzY=
+1Mn0=3D" style=3D"color: #1a77b9 !important;"><img title=3D"Image: http://3=
+c02e62cc9439d9eb619-050d831b4f3f7c02b7c56c36e89e6bbc.r36.cf2.rackcdn.com/do=
+wnload-now-button.png"
+src=3D"http://3c02e62cc9439d9eb619-050d831b4f3f7c02b7c56c36e89e6bbc.r36.cf2=
+.rackcdn.com/download-now-button.png" alt=3D""></a><br><br><span style=3D"l=
+ine-height: normal; font-family: Arial; color: rgb(35, 35, 35);">Viva la ca=
+lendar revolution!</span><br><span style=3D"line-height: normal; font-famil=
+y: Arial; color: rgb(35, 35, 35);"></span><br><span style=3D"line-height: n=
+ormal;">The UpTo Team</span>
+									</td>
+								</tr></tbody></table>
+<!-- End Content Area --><!-- Begin Footer Area --><table class=3D"maximum-=
+width" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 700px; backgroun=
+d: #e4e4e4; padding: 6.25% 0;" bgcolor=3D"#e4e4e4"><tbody><tr>
+<td>
+
+										<!-- Begin Social Area -->
+										<table class=3D"maximum-width" cellpadding=3D"0" cellspacing=3D"0=
+" style=3D"width: 700px; background: #e4e4e4;" bgcolor=3D"#e4e4e4"><tbody><=
+tr>
+<td style=3D"text-align: center; word-wrap: normal;" align=3D"center">
+														<a href=3D"http://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6Ik=
+9EUTROem9WMFFKa0FBSnpBQmJ1YmhvQlRsVktOQm9WSUJoVnBBckxBWE02T0Rrd01UQUEiLCJwb=
+3NpdGlvbiI6MywiaHJlZiI6Imh0dHBzOi8vdHdpdHRlci5jb20vdXB0byJ9" style=3D"color=
+: #1a77b9 !important;"><img alt=3D"" src=3D"http://upto.com/email-img/commo=
+n/icon-twitter.png" style=3D"display: inline-block; height: 25px; width: 27=
+px;"></a>
+														<a href=3D"http://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6Ik=
+9EUTROem9WMFFKa0FBSnpBQmJ1YmhvQlRsVktOQm9WSUJoVnBBckxBWE02T0Rrd01UQUEiLCJwb=
+3NpdGlvbiI6NCwiaHJlZiI6Imh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS91cHRvYXBwIn0=3D" =
+style=3D"color: #1a77b9 !important;"><img alt=3D"" src=3D"http://upto.com/e=
+mail-img/common/icon-facebook.png" style=3D"display: inline-block; height: =
+25px; width: 27px;"></a>
+													</td>
+												</tr></tbody></table>
+<!-- End Social Area --><!-- Begin Address Area --><table class=3D"maximum-=
+width" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 100%; background=
+: #e4e4e4; padding: 5% 0;" bgcolor=3D"#e4e4e4"><tbody><tr>
+<td class=3D"maximum-width" style=3D"color: #7c7c7c; line-height: 150%; tex=
+t-align: center; word-wrap: normal; width: 100%; font-family: Arial; font-s=
+ize: 13px;" align=3D"center">
+														=C2=A92014 UpTo, Inc. All rights reserved.<br>1555 Broadway, =
+Detroit, MI 48226
+													</td>
+												</tr></tbody></table>
+<!-- End Address Area --><!-- Begin Unsubscribe Area --><table class=3D"max=
+imum-width" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 700px; font=
+-family: Arial; font-size: 13px; background: #e4e4e4;" bgcolor=3D"#e4e4e4">=
+<tbody><tr>
+<td class=3D"maximum-width" style=3D"color: #7c7c7c; font-size: 100%; line-=
+height: 170%; text-align: center; word-wrap: normal;" align=3D"center">
+														Please email <a href=3D"mailto:support@upto.com" style=3D"col=
+or: #1a77b9 !important;">support@upto.com</a> with any questions or problem=
+s.<br>Click here to <a href=3D"http://e.customeriomail.com/unsubscribe/ODQ4=
+NzoV0QJkAAJzABbubhoBTlVKNBoVIBhVpArLAXM6ODkwMTAA" style=3D"color: #1a77b9 !=
+important;">unsubscribe</a>.
+													</td>
+												</tr></tbody></table>
+<!-- End Unsubscribe Area -->
+</td>
+								</tr></tbody></table>
+<!-- End Footer Area -->
+</td>
+				</tr></tbody></table>
+<img src=3D"http://e.customeriomail.com/e/o/eyJlbWFpbF9pZCI6Ik9EUTROem9WMFF=
+Ka0FBSnpBQmJ1YmhvQlRsVktOQm9WSUJoVnBBckxBWE02T0Rrd01UQUEifQ=3D=3D">
+</body>
+</html>
+
+----==_mimepart_55a40ae9b22dc_7e02760eb035790436c--

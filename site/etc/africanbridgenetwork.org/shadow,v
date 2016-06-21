@@ -1,0 +1,39 @@
+head	1.2;
+access;
+symbols;
+locks
+	abnuser:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2015.07.05.01.28.40;	author abnuser;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.07.05.01.28.40;	author abnuser;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@info:$6$c172c.SPvINFXW73$nQGRHOrpPdyKZy9mXYfTU.X157UY0LS4YWLc6ncPoJ/Tj5P0vjedgvPClHjkZ5/8zuaSDSwFxvPKax3LFLNT/.:16621::::::
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@
